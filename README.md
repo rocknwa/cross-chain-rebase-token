@@ -18,7 +18,7 @@ This project is a cross-chain rebase token where users can depost ETH in exchang
 ## Quickstart
 
 ```
-git clone https://github.com/cross-chain-rebase-token
+git clone https://github.com/rocknwa/cross-chain-rebase-token
 cd cross-chain-rebase-token
 forge build
 ```
