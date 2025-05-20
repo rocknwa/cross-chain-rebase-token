@@ -1,28 +1,10 @@
-# Foundry Cross Chain Rebase Token
-
-This is a section of the Cyfrin Foundry Solidity course.
+ 
 
 # About
 
 This project is a cross-chain rebase token where users can depost ETH in exchange for rebase tokens which accrue rewards over time.
 
-- [Foundry Cross Chain Rebase Token](#foundry-cross-chain-rebase-token)
-- [About](#about)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-- [Updates](#updates)
-- [Usage](#usage)
-  - [Start a local node](#start-a-local-node)
-  - [Deploy](#deploy)
-  - [Deploy - Other Network](#deploy---other-network)
-  - [Testing](#testing)
-    - [Test Coverage](#test-coverage)
-- [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
-  - [Scripts](#scripts)
-  - [Estimate gas](#estimate-gas)
-- [Formatting](#formatting)
-- [Thank you!](#thank-you)
+ 
 
 # Getting Started
 
@@ -148,7 +130,7 @@ To run code formatting:
 forge fmt
 ```
 
-# Thank you!
+
 
 ## Project design and assumptions
 
